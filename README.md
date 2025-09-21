@@ -62,5 +62,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+![WhatsApp Image 2025-09-20 at 11 38 51_79038959](https://github.com/user-attachments/assets/43073680-8ca7-4ce3-a575-0004ccdfe4d8)
+
 ## Output
+![WhatsApp Image 2025-09-20 at 11 37 35_3528580b](https://github.com/user-attachments/assets/0d11eaf3-3817-4247-bf0f-429143ebbb95)
+
 ## Result
+Thus the half wave rectifer controlledby a thyristor is simulated
